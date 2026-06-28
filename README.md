@@ -90,23 +90,13 @@ FPGA-Morse-Code-Encoder-SystemVerilog
 ├── LICENSE
 ├── .gitignore
 │
-├── src/
-│   ├── phase1_morse_encoder.sv
-│   ├── tb_phase1_morse_encoder.sv
-│   ├── phase2_multi_digit_encoder.sv
-│   └── tb_phase2_multi_digit_encoder.sv
+├── phase1_morse_encoder.sv
+├── tb_phase1_morse_encoder.sv
+├── phase2_multi_digit_encoder.sv
+├── tb_phase2_multi_digit_encoder.sv
+├── phase1_waveform.png
+├── phase2_waveform.png
 │
-├── constraints/
-│   └── NexysA7.xdc
-│
-├── docs/
-│   └── Morse_Code_Communication_System_Report.pdf
-│
-├── images/
-│   ├── phase1_waveform.png
-│   └── phase2_waveform.png
-│
-└── demo/
 └── FPGA_Demonstration.mp4
 
 ```
