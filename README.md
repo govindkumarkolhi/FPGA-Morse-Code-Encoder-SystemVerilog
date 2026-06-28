@@ -107,7 +107,7 @@ FPGA-Morse-Code-Encoder-SystemVerilog
 
 ## Phase 1 Waveform
 
-![Phase 1 Simulation](images/phase1_waveform.png)
+![Phase 1 Simulation](phase1_waveform.png)
 
 The simulation verifies correct Morse code generation for multiple input digits, including proper LED ON durations for dots and dashes, along with the required OFF intervals.
 
@@ -115,7 +115,7 @@ The simulation verifies correct Morse code generation for multiple input digits,
 
 ## Phase 2 Waveform
 
-![Phase 2 Simulation](images/phase2_waveform.png)
+![Phase 2 Simulation](phase2_waveform.png)
 
 The simulation demonstrates successful storage of multiple digits, sequential Morse code transmission, and the required 2-second gap between consecutive digits.
 
@@ -129,7 +129,7 @@ A hardware demonstration of the project running on the Digilent Nexys A7 FPGA bo
 
 ```
 
-demo/FPGA_Demonstration.mp4
+FPGA_Demonstration.mp4
 
 ```
 
